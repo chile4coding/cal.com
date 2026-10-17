@@ -101,7 +101,7 @@
     "libphonenumber-js": "^1.11.18",
     "lodash": "^4.17.21",
     "lottie-react": "^2.3.1",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.3.1",
     "md5": "^2.3.0",
     "memory-cache": "^0.2.0",
     "micro": "^10.0.1",
